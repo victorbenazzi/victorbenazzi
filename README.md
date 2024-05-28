@@ -9,20 +9,12 @@
 
 
 ## Atualmente estou 🔭
-🔹 Criando uma Lib Open Source para criação de Landing Page para Figma, Wordpress, Elementor e React. (ainda sem nome)
-🔹 Ajudando empreendedores a projetos seu negócio na internet através de Websites e Landing Pages
-🔹 Estudando pra caramba!
-🔹 Criando conexões profissinais 
 
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (ainda sem nome)
+- 🔗 Criando um encurtador de links gratuito e com métricas de acessos (shortinho)
+- 🚀 Ajudando empreendedores a projetar seu negócio na internet através de Websites e Landing Pages
+- 👓 Estudando pra caramba!
+
 
 
 
