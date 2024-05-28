@@ -12,7 +12,14 @@
   </a>
 </div>
 <br>
+
+### Atualmente estou 🔭
+- ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (ainda sem nome)
+- 🔗 Criando um encurtador de links gratuito e com métricas de acessos (shortinho)
+- 🚀 Ajudando empreendedores a projetar seu negócio na internet através de Websites e Landing Pages
+- 👓 Estudando pra caramba!
 <br>
+
 
 ### Stacks 💻
 ![React](https://img.shields.io/badge/react-%231f1f1f.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -28,36 +35,28 @@
 ![Elementor](https://img.shields.io/badge/elementor-%231f1f1f.svg?style=for-the-badge&logo=elementor&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%231f1f1f.svg?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
-<br><br>
+
 
 ### Tools 🔧
 ![Git](https://img.shields.io/badge/git-%231f1f1f.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%231f1f1f.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%231f1f1f.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%231f1f1f.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br><br>
+<br>
 
 
-### Atualmente Estudando 🧑‍💻
+### Estudando 🧑‍💻
 ![PHP](https://img.shields.io/badge/php-%231f1f1f.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%231f1f1f.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%231f1f1f.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br><br>
-
-
-
-### Atualmente estou 🔭
-- ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (ainda sem nome)
-- 🔗 Criando um encurtador de links gratuito e com métricas de acessos (shortinho)
-- 🚀 Ajudando empreendedores a projetar seu negócio na internet através de Websites e Landing Pages
-- 👓 Estudando pra caramba!
 <br>
-<br><br>
+
+
+  
 
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/victorbenazzi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbenazzi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbenazzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbenazzi&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
 <br>
