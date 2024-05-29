@@ -52,8 +52,6 @@
 <br>
 
 
-  
-
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/victorbenazzi">
