@@ -14,8 +14,8 @@
 <br>
 
 ### Atualmente estou 🔭
-- ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (ainda sem nome)
-- 🔗 Criando um encurtador de links gratuito e com métricas de acessos (shortinho)
+- ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (parado)
+- 🔗 Criando um encurtador de links gratuito e com métricas de acessos (parado)
 - 🚀 Ajudando empreendedores a projetar seu negócio na internet através de Websites e Landing Pages
 - 👓 Estudando pra caramba!
 <br>
@@ -26,7 +26,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-%231f1f1f.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%231f1f1f.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%231f1f1f.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%231f1f1f.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%231f1f1f.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%231f1f1f.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231f1f1f.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -46,8 +45,7 @@
 
 
 ### Estudando 🧑‍💻
-![PHP](https://img.shields.io/badge/php-%231f1f1f.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-%231f1f1f.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-%231f1f1f.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%231f1f1f.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 
