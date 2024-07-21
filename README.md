@@ -16,7 +16,6 @@
 ### Atualmente estou 🔭
 - ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (parado)
 - 🔗 Criando um encurtador de links gratuito e com métricas de acessos (parado)
-- 🚀 Ajudando empreendedores a projetar seu negócio na internet através de Websites e Landing Pages
 - 👓 Estudando pra caramba!
 <br>
 
