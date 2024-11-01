@@ -13,11 +13,7 @@
 </div>
 <br>
 
-### Atualmente estou 🔭
-- ⚡ Criando uma **Biblioteca Open Source** para criação de **Landing Page** para Figma, Wordpress, Elementor e React. (parado)
-- 🔗 Criando um encurtador de links gratuito e com métricas de acessos (parado)
-- 👓 Estudando pra caramba!
-<br>
+
 
 
 ### Stacks 💻
