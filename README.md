@@ -7,9 +7,7 @@
   <a href="https://www.linkedin.com/in/victorbenazzi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%231f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.victorbenazzi.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-%231f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
-  </a>
+
 </div>
 <br>
 
