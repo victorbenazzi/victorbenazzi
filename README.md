@@ -37,8 +37,4 @@
 <br>
 
 
-### Estudando 🧑‍💻
-![React Native](https://img.shields.io/badge/react%20native-%231f1f1f.svg?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%231f1f1f.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
 
