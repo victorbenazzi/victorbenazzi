@@ -1,40 +1,99 @@
-## Oi, me chamo Victor 👋
- Eu sou um desenvolvedor Front-End e Web designer que está sempre buscando iniciar um novo projeto. Nada me empolga mais do que começar algo totalmente do zero e vê-lo se tornar algo que possa ajudar outras pessoas.
-<div>
-  <a href="https://www.instagram.com/v1torb/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%231f1f1f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/victorbenazzi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%231f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<h1 align="center">Victor Benazzi</h1>
 
-</div>
-<br>
+<p align="center">
+  <strong>Web & AI Automation Architect</strong><br>
+  Scalable systems · Agentic AI · Event-driven automation for Growth & RevOps
+</p>
 
+<p align="center">
+  <a href="https://www.victorbenazzi.com.br/"><img src="https://img.shields.io/badge/Website-victorbenazzi.com.br-1f1f1f?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/victorbenazzi"><img src="https://img.shields.io/badge/LinkedIn-victorbenazzi-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hello@victorbenazzi.com.br"><img src="https://img.shields.io/badge/Email-hello@victorbenazzi.com.br-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/v1torb/"><img src="https://img.shields.io/badge/Instagram-v1torb-1f1f1f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
+---
 
+### About
 
-### Stacks 💻
-![React](https://img.shields.io/badge/react-%231f1f1f.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%231f1f1f.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%231f1f1f.svg?style=for-the-badge&logo=astro&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-%231f1f1f.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%231f1f1f.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%231f1f1f.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231f1f1f.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231f1f1f.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%231f1f1f.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Elementor](https://img.shields.io/badge/elementor-%231f1f1f.svg?style=for-the-badge&logo=elementor&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%231f1f1f.svg?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
+I architect **agentic AI systems**, **event-driven automation**, and **revenue-focused platforms** that turn manual ops into autonomous workflows.
 
+With a Computer Science background and 10+ years across front-end, UI/UX, and now AI infrastructure, I work at the intersection of **Growth, RevOps, and intelligent automation** — shipping code-first systems that replace brittle no-code stacks and deliver measurable business impact.
 
-### Tools 🔧
-![Git](https://img.shields.io/badge/git-%231f1f1f.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%231f1f1f.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%231f1f1f.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%231f1f1f.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
+Currently **Web & AI Automation Architect @ Optidata** · based in Chapecó, SC · remote worldwide.
 
+---
 
+### What I build
 
+| Focus | Examples |
+| --- | --- |
+| **Agentic AI & MCP** | Tool-using agents, CRM integrations, messaging automation |
+| **RevOps automation** | Outbound pipelines, event-driven jobs, ops → code-first migrations |
+| **Product platforms** | Low-latency apps with Next.js, Astro, Supabase |
+| **Local-first AI tooling** | Desktop workspaces for terminal-native coding agents |
+
+---
+
+### Featured projects
+
+<p>
+  <a href="https://github.com/victorbenazzi/metacodex"><img src="https://img.shields.io/badge/metacodex-local--first%20AI%20workspace-1f1f1f?style=for-the-badge&logo=tauri&logoColor=white" alt="metacodex"></a>
+  <a href="https://github.com/victorbenazzi/ploomes-mcp-server"><img src="https://img.shields.io/badge/Ploomes%20MCP-56%20CRM%20tools-1f1f1f?style=for-the-badge&logo=anthropic&logoColor=white" alt="Ploomes MCP"></a>
+  <a href="https://github.com/victorbenazzi/whatsapp-mcp"><img src="https://img.shields.io/badge/WhatsApp%20MCP-agent%20messaging-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp MCP"></a>
+  <a href="https://github.com/victorbenazzi/manymcps"><img src="https://img.shields.io/badge/ManyMCPs-MCP%20profile%20manager-1f1f1f?style=for-the-badge&logo=claude&logoColor=white" alt="ManyMCPs"></a>
+</p>
+
+- **[metacodex](https://github.com/victorbenazzi/metacodex)** — Premium local-first workspace for terminal-native AI coding (Tauri 2 · React 19 · Rust)
+- **[Ploomes MCP Server](https://github.com/victorbenazzi/ploomes-mcp-server)** — Unofficial MCP connecting AI agents to the Ploomes CRM API
+- **[WhatsApp MCP](https://github.com/victorbenazzi/whatsapp-mcp)** — Remote MCP so Claude can send WhatsApp messages
+- **[ManyMCPs](https://github.com/victorbenazzi/manymcps)** — MCP profile manager for Claude Code
+
+---
+
+### Stack
+
+**Languages & runtimes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1f1f1f?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1f1f1f?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1f1f1f?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Web & product**
+
+![Next.js](https://img.shields.io/badge/Next.js-1f1f1f?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-1f1f1f?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-1f1f1f?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1f1f1f?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1f1f1f?style=for-the-badge&logo=supabase&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-1f1f1f?style=for-the-badge&logo=tauri&logoColor=white)
+
+**AI & automation**
+
+![Claude](https://img.shields.io/badge/Claude-1f1f1f?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1f1f1f?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20pgvector-1f1f1f?style=for-the-badge&logo=postgresql&logoColor=white)
+![Trigger.dev](https://img.shields.io/badge/Trigger.dev-1f1f1f?style=for-the-badge&logo=triggerdotdev&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20→%20code--first-1f1f1f?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Infra & tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1f1f1f?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Focus areas
+
+`Agentic AI` `MCP Servers` `RAG Pipelines` `RevOps Automation` `Event-driven Systems` `Growth Engineering` `Local-first Tools` `CRM Integrations`
+
+---
+
+<p align="center">
+  Open to select freelance work on AI automation, MCP servers, RAG, and RevOps systems.<br>
+  <a href="https://www.victorbenazzi.com.br/"><strong>victorbenazzi.com.br</strong></a> · <a href="mailto:hello@victorbenazzi.com.br"><strong>hello@victorbenazzi.com.br</strong></a>
+</p>
