@@ -95,10 +95,3 @@ Currently **Web & AI Automation Architect @ Optidata** · based in Chapecó, SC 
 ### Focus areas
 
 `Agentic AI` `MCP Servers` `RAG Pipelines` `RevOps Automation` `Event-driven Systems` `Growth Engineering` `Local-first Tools` `CRM Integrations`
-
----
-
-<p align="center">
-  Open to select freelance work on AI automation, MCP servers, RAG, and RevOps systems.<br>
-  <a href="https://www.victorbenazzi.com.br/"><strong>victorbenazzi.com.br</strong></a> · <a href="mailto:hello@victorbenazzi.com.br"><strong>hello@victorbenazzi.com.br</strong></a>
-</p>
