@@ -39,15 +39,20 @@ Currently **Web & AI Automation Architect @ Optidata** · based in Chapecó, SC 
 
 <p>
   <a href="https://github.com/victorbenazzi/metacodex"><img src="https://img.shields.io/badge/metacodex-local--first%20AI%20workspace-1f1f1f?style=for-the-badge&logo=tauri&logoColor=white" alt="metacodex"></a>
-  <a href="https://github.com/victorbenazzi/ploomes-mcp-server"><img src="https://img.shields.io/badge/Ploomes%20MCP-56%20CRM%20tools-1f1f1f?style=for-the-badge&logo=anthropic&logoColor=white" alt="Ploomes MCP"></a>
-  <a href="https://github.com/victorbenazzi/whatsapp-mcp"><img src="https://img.shields.io/badge/WhatsApp%20MCP-agent%20messaging-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp MCP"></a>
-  <a href="https://github.com/victorbenazzi/manymcps"><img src="https://img.shields.io/badge/ManyMCPs-MCP%20profile%20manager-1f1f1f?style=for-the-badge&logo=claude&logoColor=white" alt="ManyMCPs"></a>
+  <a href="https://github.com/victorbenazzi/claude-switcher"><img src="https://img.shields.io/badge/claude--switcher-macOS%20menu%20bar-1f1f1f?style=for-the-badge&logo=claude&logoColor=white" alt="claude-switcher"></a>
+  <a href="https://github.com/victorbenazzi/carroca"><img src="https://img.shields.io/badge/carroca-macOS%20memory%20monitor-1f1f1f?style=for-the-badge&logo=apple&logoColor=white" alt="carroca"></a>
 </p>
 
 - **[metacodex](https://github.com/victorbenazzi/metacodex)** — Premium local-first workspace for terminal-native AI coding (Tauri 2 · React 19 · Rust)
-- **[Ploomes MCP Server](https://github.com/victorbenazzi/ploomes-mcp-server)** — Unofficial MCP connecting AI agents to the Ploomes CRM API
+- **[claude-switcher](https://github.com/victorbenazzi/claude-switcher)** — Native macOS menu bar app to switch Claude Code backends (Anthropic / DeepSeek / Kimi)
+- **[carroca](https://github.com/victorbenazzi/carroca)** — Lightweight macOS memory & process monitor in SwiftUI — tells you what is safe to kill
+- **[vensy-agents](https://github.com/victorbenazzi/vensy-agents)** — Operational agents platform for revenue teams (Cloudflare Workers · Supabase · Next.js)
 - **[WhatsApp MCP](https://github.com/victorbenazzi/whatsapp-mcp)** — Remote MCP so Claude can send WhatsApp messages
+- **[Ploomes MCP Server](https://github.com/victorbenazzi/ploomes-mcp-server)** — Unofficial MCP connecting AI agents to the Ploomes CRM API
 - **[ManyMCPs](https://github.com/victorbenazzi/manymcps)** — MCP profile manager for Claude Code
+- **[VitoFit](https://github.com/victorbenazzi/vitofit)** — Mobile-first PWA for AI-powered workouts
+- **[OptiZap API](https://github.com/victorbenazzi/optizap-api)** — Internal WhatsApp API for Optidata (WAHA WEBJS self-hosted)
+- **[Clown Theme Builder](https://github.com/victorbenazzi/clown-theme-builder)** — Chrome theme builder with live preview and Manifest V3 export
 
 ---
 
